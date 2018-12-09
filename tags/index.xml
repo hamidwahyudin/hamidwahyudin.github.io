@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hamid Wahyudin</title>
-    <link>https://hamidwahyudin.github.io/tags/</link>
+    <link>https://hamidwahyudin.com/tags/</link>
     <description>Recent content in Tags on Hamid Wahyudin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="https://hamidwahyudin.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hamidwahyudin.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Projects</title>
-      <link>https://hamidwahyudin.github.io/tags/projects/</link>
+      <link>https://hamidwahyudin.com/tags/projects/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://hamidwahyudin.github.io/tags/projects/</guid>
+      <guid>https://hamidwahyudin.com/tags/projects/</guid>
       <description></description>
     </item>
     

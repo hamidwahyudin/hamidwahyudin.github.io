@@ -3,35 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hamidwahyudin.github.io/projects/</loc>
+    <loc>https://hamidwahyudin.com/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hamidwahyudin.github.io/categories/</loc>
+    <loc>https://hamidwahyudin.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hamidwahyudin.github.io/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hamidwahyudin.github.io/tags/projects/</loc>
+    <loc>https://hamidwahyudin.com/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hamidwahyudin.github.io/categories/projects/</loc>
+    <loc>https://hamidwahyudin.com/tags/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hamidwahyudin.github.io/tags/</loc>
+    <loc>https://hamidwahyudin.com/categories/projects/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hamidwahyudin.com/tags/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
